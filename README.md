@@ -177,7 +177,7 @@ flutter test test/memory_test.dart
 ### Setup Steps
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/timelock-memory-app.git
+   git clone https://github.com/konyalajaganmohan2002/Timelockapp
    cd timelock-memory-app
    ```
 
@@ -345,3 +345,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **TimeLock - Where memories wait for the perfect moment to be revealed.** 🔒✨
+
